@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NotificationService.Repositories/1.0.0": {
+        "runtime": {
+          "NotificationService.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotificationService.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

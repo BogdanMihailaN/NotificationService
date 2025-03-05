@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/bin/Debug/net8.0/NotificationService.Domain.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/bin/Debug/net8.0/NotificationService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/bin/Debug/net8.0/NotificationService.Domain.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/NotificationService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/NotificationService.Domain.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/NotificationService.Domain.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/NotificationService.Domain.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/NotificationService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/refint/NotificationService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/NotificationService.Domain.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/NotificationService/src/Domain/obj/Debug/net8.0/ref/NotificationService.Domain.dll
